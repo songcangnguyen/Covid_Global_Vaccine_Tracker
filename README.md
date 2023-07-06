@@ -1,4 +1,5 @@
 # Covid Global Vaccine Tracker
+![covid-19-vaccine-graphic](https://github.com/songcangnguyen/Covid_Global_Vaccine_Tracker/assets/109171837/010ffe5d-04b5-4e04-88bb-096c830a6846)
 
 I build a Covid Vaccine Tracker dashboard to track how the vaccination program is performing worldwide and to answer business questions.
 
